@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="StoreMVCLab:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/StoreMVCLab_jar</output-path>
+    <root id="archive" name="StoreMVCLab.jar">
+      <element id="module-output" name="StoreMVCLab" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src" />
+    </root>
+  </artifact>
+</component>
